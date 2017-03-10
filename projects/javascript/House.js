@@ -28,7 +28,7 @@ var draw = function() {
   fill(255, 255, 255);
   rect(220, 180, 50, 50);
   
-  // We can make clouds but joining three circles
+  // We can make clouds by joining three circles
   stroke(0, 0, 0);
   fill(255, 255, 255);
   ellipse(200, 70, 70, 40);
